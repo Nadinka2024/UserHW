@@ -1,4 +1,4 @@
-package lesson3;
+package User;
 
 public class User {
     public static int countOfFollowerForAllUsers;
